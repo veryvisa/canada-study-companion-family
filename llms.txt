@@ -1,20 +1,29 @@
 # 孩子在加读书、家长陪同的家庭（微出国 VeryVisa）
 
-> 把家长的停留、孩子的学习、住房和学校沟通排进同一份日历。母亲或其他照护者都可按家庭实际分工使用。
+> 陪读家长的停留与延期、孩子的学习许可与监护安排、学区报名与 MSP 衔接，整理进同一份家庭日历。
 
 网址：https://veryvisa.github.io/canada-study-companion-family/
 提供方：微出国（VeryVisa）。微出国是在加拿大不列颠哥伦比亚省的中文专业服务团队，服务海外华人家庭与小企业。
 咨询：页面底部表单，或邮件 veryvisa.com@gmail.com
-信息截至：2026-10-07
+信息截至：2026-10-11
+
+## 交付内容
+家庭身份日历 家长的访客记录或许可、孩子的学习许可、护照、学年与学期，每人一栏写明到期日，并标出递交延期或续签的时间点。 入境与延期材料清单 陪读家长入境、孩子首次登记入学、延长停留时各需准备的材料，逐项列明出处；监护安排（父母陪同或另委托监护人）单独列出。 学区、住房与医保衔接清单 学区报名所需的身份与住址证明、租约时间、MSP 资格与生效日、生效前的就医安排，按先后次序排成一页。
 
 ## 把家长与孩子的安排排在一起
 身份日历 分别记录家长获准停留日期、孩子的学习许可、护照与学校日期。签证有效期与获准停留不是同一个日期，需要个案意见时联系服务团队安排顾问。 住房与学校 租约、住址、入学材料与监护安排彼此关联。先向学区确认所需资料和录取条件，再安排签约与搬家。 医疗与支持 家长与孩子的医保条件可能不同。MSP 资格与生效日以 Health Insurance BC 为准，可先看医保生效与等待期说明，并备好来访期间的就医联络。寻找社群时也先问服务是否接待目前身份的家庭。
+
+## 适用情形
+小学生，由家长全程陪读 部分学区的国际生小学项目要求学生与家长全日同住，家长的停留身份因此与孩子的学业连在一起。 家长的访客身份需要延期 获准停留的日期快到，延期申请处理期很长，不清楚审理期间能否留下、被拒之后怎么办。 一方父母的工签到期 孩子随父母的工作许可来加，父或母一方的许可已到期离境，另一方的也将到期。 中学生，委托监护人照看 父母不在加拿大，学校与移民局要求监护人声明，找不到合适的监护人。 刚落地，孩子的医保还没下来 MSP 申请需要身份文件，访客记录尚在审理，孩子看病的安排需要先想好。 陪读家长在加拿大的孤立 语言、朋友与社群都不在身边，现有的移民服务多为就业与安置而设。
 
 ## 工作方式
 1. 描述家里的安排、关键日期和目前已有的资料。 2. 整理时间线、缺少的材料与需要联系的机构。 3. 先约定服务范围，再确认负责人和交付时间。
 
 ## 谁来做什么
 我们把家长与孩子的日期、文件和待办事项排进同一份清单；需要移民、教育、医疗、租赁或法律判断时，按事项衔接相应机构或专业人士。
+
+## 陪读家庭常说的几件事
+以下几段取自公开论坛与媒体报道中的原话，链接附后。个案经过以原帖为准。 入境时被问到为什么需要陪读。 温哥华一对陪读夫妇入境时，「据夫妻俩讲述，海关官员给出的理由是既然孩子在加拿大有监护人，那就不需要父母陪读。」（温哥华港湾）。入境前把孩子的学习许可、录取与陪读安排的材料备齐，监护安排前后一致。 孩子的访客记录当初没有办。 「Now this person try to get their kid to the school and they were asked about it」（r/ImmigrationCanada）。IRCC 说明，17 岁以下的未成年人须与父母或法定监护人同来，或在加拿大有监护人。 延期申请要等半年。 「I have seen that processing time right now is 180 days」（r/ImmigrationCanada）。IRCC 说明，访客要在加拿大停留更久，须申请访客记录。递交日期与回执要保存好。 父母一方的许可已经到期。 「My mom’s permit has already expired and she’s out of the country, while my dad’s expires at the end of this year.」（r/ImmigrationCanada）。孩子的学习许可、父母的许可与监护安排，宜在同一份日历上提前对齐。 孩子的医保要等文件。 「The turn around time on IRCC for a visitor record is like 246 days or something」（r/americandocsofbc）。MSP 资格与生效日以 Health Insurance BC 为准；文件下来之前的就医，先有安排。 来了之后，不知道找谁。 一位陪读母亲说，她不知道有什么支持服务可以求助（「She didn’t know of any support services she could turn to.」，Vancouver Magazine
 
 ## 常见问题
 
@@ -24,10 +33,28 @@
 问：租房和学校安排先做哪一项？
 答：先向学区确认身份、住址证明和学费类别要求，再按预算与通勤范围核对房屋。
 
+问：陪读家长可以在加拿大工作吗？
+答：联邦移民条例规定，外国人须经工作许可或条例授权，方可在加拿大工作。陪读家长持访客身份的，一般不在授权之列；具体能否申请许可，宜向持牌移民顾问确认。
+
+问：17 岁以下的孩子来加读书，需要谁陪同？
+答：IRCC 说明，17 岁以下的未成年人须与父母或法定监护人同来，或在加拿大有监护人；监护人须为加拿大公民或永久居民。见 IRCC：未成年子女在加学习。
+
+问：陪读家长要多留一段时间，应当怎样办？
+答：IRCC 说明，访客要延长在加拿大的停留，须申请访客记录。宜在获准停留期届满之前递交，并保存递交日期与回执。见 IRCC：延长访客停留。
+
+问：孩子能参加 BC 的 MSP 吗？
+答：据 BC 政府说明，部分持有效期六个月或以上学习或工作许可的人，可被视为居民参加 MSP。持访客身份的家长一般不在其列。资格与生效日以 Health Insurance BC 的答复为准。
+
+问：陪读家庭可以申请加拿大儿童福利（CCB）吗？
+答：CRA 对临时居民列有条件，其中一项是已在加拿大居住满前 18 个月。是否符合，按家庭成员各自的身份与居住时间分别核对。见 CRA：申请 CCB 之前。
+
 ## 参考资料
 - IRCC：延长访客停留: https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/extend-stay.html
 - IRCC：未成年子女在加学习: https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/prepare/minor-children.html
 - BC：MSP 生效等待期: https://www2.gov.bc.ca/gov/content/health/health-drug-coverage/msp/bc-residents/eligibility-and-enrolment/how-to-enrol/coverage-wait-period
+- BC：MSP 资格: https://www2.gov.bc.ca/gov/content/health/health-drug-coverage/msp/bc-residents/eligibility-and-enrolment/are-you-eligible
+- IRPR 第 196 条: https://laws-lois.justice.gc.ca/eng/regulations/SOR-2002-227/section-196.html
+- CRA：申请 CCB 之前: https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview/canada-child-benefit-before-you-apply.html
 
 ## 站内页面
 
